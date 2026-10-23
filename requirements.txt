@@ -1,14 +1,9 @@
-
-### 2. Your `requirements.txt`
-
-Replace its contents with exactly:
-
-```text
-gradio>=5,<6
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-openpyxl
-scipy
+gradio==5.50.0
+pandas==2.3.3
+numpy==2.5.4
+matplotlib==3.11.2
+seaborn==0.13.2
+scikit-learn==1.9.1
+openpyxl==3.1.5
+scipy==1.18.1
+xlrd==2.0.2
