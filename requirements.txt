@@ -1,9 +1,14 @@
-streamlit
+
+### 2. Your `requirements.txt`
+
+Replace its contents with exactly:
+
+```text
+gradio>=5,<6
 pandas
 numpy
 matplotlib
 seaborn
-scipy
 scikit-learn
 openpyxl
-xlrd
+scipy
